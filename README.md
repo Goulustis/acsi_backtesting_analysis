@@ -1,3 +1,6 @@
+# Note
+For seeing the bitcoin analysis go to the commit before refractor repository: f79e1f4cf6e29764c12646ffe2922a0ecbe59d82
+
 # ACSI Score Analysis for Investment Strategies
 
 This repository contains the datasets, code, and analysis to replicate the research conducted on the use of American Customer Satisfaction Index (ACCSI) scores in investment strategies. This research explores the hypothesis of whether high ACSI scores can predict superior stock market returns.
